@@ -1,0 +1,9 @@
+mass: 20000
+radius: 150
+spin: 0.0001
+texture: planet1
+
+mass: 40000
+radius: 150
+spin: 0.0002
+texture: planet1

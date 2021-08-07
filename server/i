@@ -1,0 +1,19 @@
+typealias arr[a] = int a[\0]
+typealias planet = float float byte short
+typealias obj = float float int float float float float float float float float bytemask
+Client: AUTH [name]
+        (0 str)
+Server: ACK [sector] [planets]
+        (1 int arr[planet]])
+[loop 1s]
+Client: LS_HBEAT
+        (3)
+[end]
+[loop 0.1s]
+Client: PDATA [ship]
+        (5 obj)
+Server: PDATA [ships]
+        (6)
+[end]
+Server: DISC [reason]
+        (127 str)

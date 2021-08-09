@@ -8,4 +8,4 @@ id: 0
 x: 1000
 y: -100
 id: 0
-asteroids: true
+asteroid: true

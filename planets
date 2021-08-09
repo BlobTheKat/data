@@ -3,3 +3,13 @@ mass: 20000
 radius: 150
 spin: 0.001
 texture: planet1
+#id 1
+mass: 40000
+radius: 150
+spin: 0.002
+texture: planet2
+#id 2
+mass: 10000
+radius: 500
+spin: 1
+texture: planet0

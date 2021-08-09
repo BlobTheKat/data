@@ -1,4 +1,5 @@
 
 radius: 40
 mass: 800
+spin: 0.01
 texture: asteroid0

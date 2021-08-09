@@ -6,5 +6,10 @@ y: 400
 id: 0
 
 x: 1000
-y: 0
+y: -100
 id: 0
+
+x: 500
+y: -300
+id: 0
+asteroid: true
